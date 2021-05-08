@@ -1,1 +1,2 @@
-# WHJR24Proj
+# Geologist
+Geologist Project
